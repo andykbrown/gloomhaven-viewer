@@ -1,0 +1,3570 @@
+[
+ {
+  "group": "Gloomhaven",
+  "num": 1,
+  "title": "Black Barrow",
+  "alts": [
+   "Black Barrow",
+   "Blood and Glory",
+   "Just Another Night"
+  ],
+  "level": 11,
+  "objects": 51,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Bandit Guard",
+   "Living Bones"
+  ],
+  "starts": 7
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 2,
+  "title": "Barrow Lair",
+  "alts": [
+   "A Quatryl Scorned",
+   "Barrow Lair",
+   "Jailbreak"
+  ],
+  "level": 12,
+  "objects": 57,
+  "bounds": [
+   -14.741,
+   -56.769,
+   14.759,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Living Dead",
+   "Savaas Lavaflow"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 3,
+  "title": "Inox Encampment",
+  "alts": [
+   "Inox Encampment",
+   "Slippery Slope",
+   "Unreliable Medicine"
+  ],
+  "level": 13,
+  "objects": 89,
+  "bounds": [
+   -14.741,
+   -39.542,
+   14.741,
+   38.933
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Inox Archer",
+   "Inox Guard",
+   "Inox Shaman"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 4,
+  "title": "Crypt of the Damned",
+  "alts": [
+   "Crypt of the Damned",
+   "Emergent Evidence",
+   "Unlikely Allies"
+  ],
+  "level": 14,
+  "objects": 53,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Cultist",
+   "Earth Demon",
+   "Living Bones",
+   "Wind Demon"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 5,
+  "title": "Ruinous Crypt",
+  "alts": [
+   "Ruinous Crypt",
+   "They Just Keep Coming",
+   "The Sun Spire"
+  ],
+  "level": 15,
+  "objects": 49,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cultist",
+   "Flame Demon",
+   "Frost Demon",
+   "Living Bones",
+   "Night Demon"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 6,
+  "title": "Decaying Crypt",
+  "alts": [
+   "A Ship in a Storm",
+   "Decaying Crypt",
+   "Peer Pressure"
+  ],
+  "level": 16,
+  "objects": 72,
+  "bounds": [
+   -14.741,
+   -54.743,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Living Bones",
+   "Living Dead",
+   "Living Spirit"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 7,
+  "title": "Vibrant Grotto",
+  "alts": [
+   "Arrival In Chains",
+   "The Chase",
+   "Vibrant Grotto"
+  ],
+  "level": 17,
+  "objects": 65,
+  "bounds": [
+   -14.741,
+   -36.993,
+   14.741,
+   38.933
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear",
+   "Earth Demon",
+   "Forest Imp",
+   "Inox Shaman"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 8,
+  "title": "Gloomhaven Warehouse",
+  "alts": [
+   "Breaking and Entering",
+   "Gloomhaven Warehouse",
+   "The Doctor's Lab"
+  ],
+  "level": 18,
+  "objects": 52,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Inox Bodyguard",
+   "Living Bones",
+   "Living Dead"
+  ],
+  "starts": 7
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 9,
+  "title": "Diamond Mine",
+  "alts": [
+   "Diamond Mine",
+   "Legal Entanglements",
+   "Skewed Perspective"
+  ],
+  "level": 19,
+  "objects": 53,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Boss Mercilis Overseer",
+   "Hound",
+   "Vermling Scout"
+  ],
+  "starts": 7
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 10,
+  "title": "Plane of Elemental Power",
+  "alts": [
+   "Beasts of Order and Chaos",
+   "Panic Room",
+   "Plane of Elemental Power"
+  ],
+  "level": 20,
+  "objects": 65,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Flame Demon",
+   "Sun Demon"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 11,
+  "title": "Gloomhaven Square A",
+  "alts": [],
+  "level": 21,
+  "objects": 89,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Boss Bandit Commander",
+   "City Archer",
+   "City Guard",
+   "Living Bones",
+   "Living Dead"
+  ],
+  "starts": 7
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 12,
+  "title": "Gloomhaven Square B",
+  "alts": [],
+  "level": 22,
+  "objects": 90,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Boss Jekserah",
+   "City Archer",
+   "City Guard",
+   "Cultist",
+   "Living Bones",
+   "Living Dead"
+  ],
+  "starts": 7
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 13,
+  "title": "Temple of the Seer",
+  "alts": [],
+  "level": 23,
+  "objects": 45,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear",
+   "Living Spirit",
+   "Spitting Drake",
+   "Stone Golem"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 14,
+  "title": "Frozen Hollow",
+  "alts": [],
+  "level": 24,
+  "objects": 52,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Frost Demon",
+   "Hound",
+   "Living Spirit"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 15,
+  "title": "Shrine of Strength",
+  "alts": [],
+  "level": 25,
+  "objects": 68,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Frost Demon",
+   "Harrower Infester",
+   "Savaas Icestorm",
+   "Stone Golem",
+   "Wind Demon"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 16,
+  "title": "Mountain Pass",
+  "alts": [],
+  "level": 26,
+  "objects": 52,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Inox Archer",
+   "Inox Guard",
+   "Wind Demon"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 17,
+  "title": "Lost Island",
+  "alts": [],
+  "level": 27,
+  "objects": 78,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear",
+   "Vermling Scout",
+   "Vermling Shaman"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 18,
+  "title": "Abandoned Sewers",
+  "alts": [],
+  "level": 28,
+  "objects": 79,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Giant Viper",
+   "Ooze",
+   "Vermling Scout"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 19,
+  "title": "Forgotten Crypt",
+  "alts": [],
+  "level": 29,
+  "objects": 75,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cultist",
+   "Living Bones",
+   "Living Dead",
+   "Living Spirit"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 20,
+  "title": "Necromancer's Sanctum",
+  "alts": [],
+  "level": 30,
+  "objects": 58,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Boss Jekserah",
+   "Cultist",
+   "Living Bones",
+   "Living Dead",
+   "Night Demon"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 21,
+  "title": "Infernal Throne",
+  "alts": [],
+  "level": 31,
+  "objects": 53,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Flame Demon",
+   "Frost Demon",
+   "Night Demon",
+   "Sun Demon",
+   "Wind Demon"
+  ],
+  "starts": 7
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 22,
+  "title": "Temple of the Elements",
+  "alts": [],
+  "level": 32,
+  "objects": 54,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cultist",
+   "Earth Demon",
+   "Flame Demon",
+   "Frost Demon",
+   "Wind Demon"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 23,
+  "title": "Deep Ruins",
+  "alts": [],
+  "level": 33,
+  "objects": 64,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "Living Bones",
+   "Living Spirit",
+   "Stone Golem"
+  ],
+  "starts": 7
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 24,
+  "title": "Echo Chamber",
+  "alts": [],
+  "level": 34,
+  "objects": 76,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Living Spirit",
+   "Ooze",
+   "Rending Drake"
+  ],
+  "starts": 7
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 25,
+  "title": "Icecrag Ascent",
+  "alts": [],
+  "level": 35,
+  "objects": 59,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Hound",
+   "Rending Drake",
+   "Spitting Drake"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 26,
+  "title": "Ancient Cistern",
+  "alts": [],
+  "level": 36,
+  "objects": 73,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "Living Dead",
+   "Night Demon",
+   "Ooze"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 27,
+  "title": "Ruinous Rift",
+  "alts": [],
+  "level": 37,
+  "objects": 17,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 28,
+  "title": "Outer Ritual Chamber",
+  "alts": [],
+  "level": 38,
+  "objects": 40,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cultist",
+   "Living Dead",
+   "Night Demon",
+   "Sun Demon"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 29,
+  "title": "Sanctuary of Gloom",
+  "alts": [],
+  "level": 39,
+  "objects": 63,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "Living Bones",
+   "Living Dead",
+   "Living Spirit"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 30,
+  "title": "Shrine of the Depths",
+  "alts": [],
+  "level": 40,
+  "objects": 75,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Deep Terror",
+   "Lurker",
+   "Ooze"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 31,
+  "title": "Plane of Night",
+  "alts": [],
+  "level": 41,
+  "objects": 59,
+  "bounds": [
+   -14.741,
+   -33.653,
+   17.041,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "Deep Terror",
+   "Night Demon"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 32,
+  "title": "Decrepit Wood",
+  "alts": [],
+  "level": 42,
+  "objects": 77,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "Deep Terror",
+   "Giant Viper",
+   "Harrower Infester"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 33,
+  "title": "Savvas Armory",
+  "alts": [],
+  "level": 43,
+  "objects": 71,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Flame Demon",
+   "Frost Demon",
+   "Savaas Icestorm",
+   "Savaas Lavaflow"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 34,
+  "title": "Scorched Summit",
+  "alts": [],
+  "level": 44,
+  "objects": 46,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Elder Drake",
+   "Rending Drake",
+   "Spitting Drake"
+  ],
+  "starts": 7
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 35,
+  "title": "Gloomhaven Battlements A",
+  "alts": [],
+  "level": 45,
+  "objects": 74,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Captain of Guard",
+   "City Archer",
+   "City Guard",
+   "Earth Demon",
+   "Flame Demon",
+   "Frost Demon",
+   "Wind Demon"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 36,
+  "title": "Gloomhaven Battlements B",
+  "alts": [],
+  "level": 46,
+  "objects": 61,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Archer",
+   "Earth Demon",
+   "Flame Demon",
+   "Frost Demon",
+   "Wind Demon"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 37,
+  "title": "Doom Trench",
+  "alts": [],
+  "level": 47,
+  "objects": 50,
+  "bounds": [
+   -14.741,
+   -18.963,
+   15.126,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Deep Terror",
+   "Harrower Infester",
+   "Lurker"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 38,
+  "title": "Slave Pens",
+  "alts": [],
+  "level": 48,
+  "objects": 54,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Inox Archer",
+   "Inox Guard",
+   "Inox Shaman",
+   "Stone Golem"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 39,
+  "title": "Treacherous Divide",
+  "alts": [],
+  "level": 49,
+  "objects": 49,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear",
+   "Cultist",
+   "Frost Demon",
+   "Spitting Drake"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 40,
+  "title": "Ancient Defense Network",
+  "alts": [],
+  "level": 50,
+  "objects": 90,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear",
+   "Flame Demon",
+   "Forest Imp",
+   "Living Dead",
+   "Stone Golem"
+  ],
+  "starts": 7
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 41,
+  "title": "Timeworn Tomb",
+  "alts": [],
+  "level": 51,
+  "objects": 62,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "Living Dead",
+   "Living Spirit",
+   "Stone Golem"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 42,
+  "title": "Realm of the Voice",
+  "alts": [],
+  "level": 52,
+  "objects": 35,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Living Spirit",
+   "Night Demon",
+   "Wind Demon"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 43,
+  "title": "Drake Nest",
+  "alts": [],
+  "level": 53,
+  "objects": 73,
+  "bounds": [
+   -14.741,
+   -54.823,
+   15.428,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Flame Demon",
+   "Rending Drake",
+   "Spitting Drake"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 44,
+  "title": "Tribal Assault",
+  "alts": [],
+  "level": 54,
+  "objects": 69,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Hound",
+   "Inox Archer",
+   "Inox Guard",
+   "Inox Shaman"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 45,
+  "title": "Rebel Swamp",
+  "alts": [],
+  "level": 55,
+  "objects": 63,
+  "bounds": [
+   -14.741,
+   -19.137,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Archer",
+   "City Guard",
+   "Hound"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 46,
+  "title": "Nightmare Peak",
+  "alts": [],
+  "level": 56,
+  "objects": 50,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Frost Demon",
+   "Night Demon",
+   "Savaas Icestorm",
+   "Wind Demon",
+   "Winged Horror"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 47,
+  "title": "Lair of the Unseeing Eye",
+  "alts": [],
+  "level": 57,
+  "objects": 42,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Deep Terror",
+   "Harrower Infester",
+   "Lurker",
+   "The Sightless Eye"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 48,
+  "title": "Shadow Weald",
+  "alts": [],
+  "level": 58,
+  "objects": 47,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Forest Imp",
+   "Harrower Infester"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 49,
+  "title": "Rebel's Stand",
+  "alts": [],
+  "level": 59,
+  "objects": 58,
+  "bounds": [
+   -14.741,
+   -19.404,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "City Archer",
+   "City Guard",
+   "Giant Viper"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 50,
+  "title": "Ghost Fortress",
+  "alts": [],
+  "level": 60,
+  "objects": 56,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Night Demon",
+   "Sun Demon",
+   "Wind Demon"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 51,
+  "title": "The Void",
+  "alts": [],
+  "level": 61,
+  "objects": 30,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "The Gloom"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 52,
+  "title": "Noxious Cellar",
+  "alts": [],
+  "level": 62,
+  "objects": 79,
+  "bounds": [
+   -15.714,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Living Dead",
+   "Ooze",
+   "Spitting Drake",
+   "Vermling Scout",
+   "Vermling Shaman"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 53,
+  "title": "Crypt Basement",
+  "alts": [],
+  "level": 63,
+  "objects": 90,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Giant Viper",
+   "Living Bones",
+   "Living Dead",
+   "Living Spirit",
+   "Ooze"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 54,
+  "title": "Palace of Ice",
+  "alts": [],
+  "level": 64,
+  "objects": 57,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear",
+   "Frost Demon",
+   "Harrower Infester",
+   "Living Spirit"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 55,
+  "title": "Foggy Thicket",
+  "alts": [],
+  "level": 65,
+  "objects": 3,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 0
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 56,
+  "title": "Bandit's Wood",
+  "alts": [],
+  "level": 66,
+  "objects": 61,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Bandit Guard",
+   "Hound",
+   "Rending Drake"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 57,
+  "title": "Investigation",
+  "alts": [],
+  "level": 67,
+  "objects": 64,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Archer",
+   "City Guard",
+   "Hound"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 58,
+  "title": "Bloody Shack",
+  "alts": [],
+  "level": 68,
+  "objects": 60,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "City Guard",
+   "Earth Demon",
+   "Harrower Infester"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 59,
+  "title": "Forgotten Grove",
+  "alts": [],
+  "level": 69,
+  "objects": 61,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear",
+   "Forest Imp",
+   "Hound"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 60,
+  "title": "Alchemy Lab",
+  "alts": [],
+  "level": 70,
+  "objects": 62,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Giant Viper",
+   "Hound",
+   "Ooze",
+   "Rending Drake",
+   "Spitting Drake"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 61,
+  "title": "Fading Lighthouse",
+  "alts": [],
+  "level": 71,
+  "objects": 69,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Flame Demon",
+   "Frost Demon",
+   "Giant Viper",
+   "Ooze"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 62,
+  "title": "Pit of Souls",
+  "alts": [],
+  "level": 72,
+  "objects": 43,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Living Bones",
+   "Living Spirit"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 63,
+  "title": "Magma Pit",
+  "alts": [],
+  "level": 73,
+  "objects": 53,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Flame Demon",
+   "Inox Archer",
+   "Inox Guard",
+   "Vermling Scout"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 64,
+  "title": "Underwater Lagoon",
+  "alts": [],
+  "level": 74,
+  "objects": 62,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Forest Imp",
+   "Ooze",
+   "Rending Drake"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 65,
+  "title": "Sulfur Mine",
+  "alts": [],
+  "level": 75,
+  "objects": 74,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Hound",
+   "Inox Shaman",
+   "Vermling Scout"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 66,
+  "title": "Clockwork Cove",
+  "alts": [],
+  "level": 76,
+  "objects": 97,
+  "bounds": [
+   -14.741,
+   -33.653,
+   16.708,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "Living Spirit",
+   "Ooze",
+   "Stone Golem"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 67,
+  "title": "Arcane Library",
+  "alts": [],
+  "level": 77,
+  "objects": 76,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear",
+   "Forest Imp",
+   "Stone Golem"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 68,
+  "title": "Toxic Moor",
+  "alts": [],
+  "level": 78,
+  "objects": 64,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "Giant Viper",
+   "Living Dead",
+   "Rending Drake"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 69,
+  "title": "Well of the Unfortunate",
+  "alts": [],
+  "level": 79,
+  "objects": 71,
+  "bounds": [
+   -14.741,
+   -19.469,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Forest Imp",
+   "Living Spirit",
+   "Stone Golem",
+   "Vermling Scout",
+   "Vermling Shaman"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 70,
+  "title": "Chained Isle",
+  "alts": [],
+  "level": 80,
+  "objects": 80,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Night Demon",
+   "Wind Demon"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 71,
+  "title": "Windswept Highlands",
+  "alts": [],
+  "level": 81,
+  "objects": 69,
+  "bounds": [
+   -14.741,
+   -33.653,
+   18.186,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Spitting Drake",
+   "Sun Demon",
+   "Wind Demon"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 72,
+  "title": "Oozing Grove",
+  "alts": [],
+  "level": 82,
+  "objects": 56,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Forest Imp",
+   "Giant Viper",
+   "Ooze"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 73,
+  "title": "Rockslide Ridge",
+  "alts": [],
+  "level": 83,
+  "objects": 72,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "Hound",
+   "Inox Archer",
+   "Inox Guard",
+   "Inox Shaman"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 74,
+  "title": "Merchant Ship",
+  "alts": [],
+  "level": 84,
+  "objects": 74,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Bandit Guard",
+   "Deep Terror",
+   "Lurker"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 75,
+  "title": "Overgrown Graveyard",
+  "alts": [],
+  "level": 85,
+  "objects": 69,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Living Bones",
+   "Living Spirit"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 76,
+  "title": "Harrower Hive",
+  "alts": [],
+  "level": 86,
+  "objects": 82,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Giant Viper",
+   "Harrower Infester",
+   "Living Bones",
+   "Night Demon"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 77,
+  "title": "Vault of Secrets",
+  "alts": [],
+  "level": 87,
+  "objects": 67,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Archer",
+   "City Guard",
+   "Hound",
+   "Stone Golem"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 78,
+  "title": "Sacrifice Pit",
+  "alts": [],
+  "level": 88,
+  "objects": 55,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Bandit Guard",
+   "Black Imp",
+   "Cultist"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 79,
+  "title": "Lost Temple",
+  "alts": [],
+  "level": 89,
+  "objects": 66,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Stone Golem",
+   "The Betrayer"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 80,
+  "title": "Vigil Keep",
+  "alts": [],
+  "level": 90,
+  "objects": 73,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "City Archer",
+   "City Guard",
+   "Hound"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 81,
+  "title": "Temple of the Eclipse",
+  "alts": [],
+  "level": 91,
+  "objects": 57,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "Colorless",
+   "Night Demon",
+   "Stone Golem",
+   "Sun Demon"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 82,
+  "title": "Burning Mountain",
+  "alts": [],
+  "level": 92,
+  "objects": 73,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Flame Demon",
+   "Stone Golem"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 83,
+  "title": "Shadows Within",
+  "alts": [],
+  "level": 93,
+  "objects": 47,
+  "bounds": [
+   -14.741,
+   -19.786,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cultist",
+   "Flame Demon",
+   "Hound",
+   "Living Spirit"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 84,
+  "title": "Crystalline Cave",
+  "alts": [],
+  "level": 94,
+  "objects": 56,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Flame Demon",
+   "Frost Demon"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 85,
+  "title": "Sun Temple",
+  "alts": [],
+  "level": 95,
+  "objects": 68,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "Hound",
+   "Night Demon",
+   "Sun Demon"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 86,
+  "title": "Harried Village",
+  "alts": [],
+  "level": 96,
+  "objects": 68,
+  "bounds": [
+   -14.741,
+   -33.653,
+   14.741,
+   40.093
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear",
+   "Lurker",
+   "Vermling Scout",
+   "Vermling Shaman"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 87,
+  "title": "Corrupted Cove",
+  "alts": [],
+  "level": 97,
+  "objects": 71,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "Deep Terror",
+   "Lurker",
+   "Ooze"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 88,
+  "title": "Plane of Water",
+  "alts": [],
+  "level": 98,
+  "objects": 55,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Frost Demon",
+   "Lurker",
+   "Ooze"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 89,
+  "title": "Syndicate Hideout",
+  "alts": [],
+  "level": 99,
+  "objects": 68,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Bandit Guard",
+   "Cultist",
+   "Giant Viper"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 90,
+  "title": "Demonic Rift",
+  "alts": [],
+  "level": 100,
+  "objects": 50,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Night Demon",
+   "Wind Demon"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 91,
+  "title": "Wild Melee",
+  "alts": [],
+  "level": 101,
+  "objects": 62,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Bandit Guard",
+   "Cave Bear",
+   "Hound",
+   "Living Spirit"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 92,
+  "title": "Back Alley Brawl",
+  "alts": [],
+  "level": 102,
+  "objects": 45,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Bandit Guard",
+   "City Archer",
+   "City Guard",
+   "Inox Guard",
+   "Savaas Lavaflow"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 93,
+  "title": "Sunken Vessel",
+  "alts": [],
+  "level": 103,
+  "objects": 69,
+  "bounds": [
+   -14.811,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Frost Demon",
+   "Living Spirit",
+   "Lurker"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 94,
+  "title": "Vermling Nest",
+  "alts": [],
+  "level": 104,
+  "objects": 72,
+  "bounds": [
+   -14.741,
+   -18.963,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear",
+   "Hound",
+   "Vermling Scout",
+   "Vermling Shaman"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Gloomhaven",
+  "num": 95,
+  "title": "Payment Due",
+  "alts": [],
+  "level": 105,
+  "objects": 76,
+  "bounds": [
+   -14.741,
+   -54.823,
+   14.741,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Deep Terror",
+   "Earth Demon",
+   "Flame Demon",
+   "Savaas Lavaflow"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Crimson Scales",
+  "num": 1,
+  "title": null,
+  "alts": [
+   "Black Barrow",
+   "Blood and Glory",
+   "Just Another Night"
+  ],
+  "level": 106,
+  "objects": 80,
+  "bounds": [
+   -13.997,
+   -46.144,
+   15.337,
+   22.004
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Archer",
+   "City Guard",
+   "Inox Guard",
+   "Inox Shaman",
+   "Rending Drake",
+   "Spitting Drake"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Crimson Scales",
+  "num": 2,
+  "title": null,
+  "alts": [
+   "A Quatryl Scorned",
+   "Barrow Lair",
+   "Jailbreak"
+  ],
+  "level": 107,
+  "objects": 85,
+  "bounds": [
+   -14.667,
+   -51.171,
+   14.667,
+   22.311
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Guard",
+   "Giant Viper",
+   "Harrower Infester"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Crimson Scales",
+  "num": 3,
+  "title": null,
+  "alts": [
+   "Inox Encampment",
+   "Slippery Slope",
+   "Unreliable Medicine"
+  ],
+  "level": 108,
+  "objects": 60,
+  "bounds": [
+   -13.977,
+   -38.074,
+   19.357,
+   22.074
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Living Dead",
+   "Ooze"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Crimson Scales",
+  "num": 4,
+  "title": null,
+  "alts": [
+   "Crypt of the Damned",
+   "Emergent Evidence",
+   "Unlikely Allies"
+  ],
+  "level": 109,
+  "objects": 93,
+  "bounds": [
+   -14.274,
+   -47.963,
+   21.874,
+   21.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cultist",
+   "Giant Viper",
+   "Night Demon"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Crimson Scales",
+  "num": 5,
+  "title": null,
+  "alts": [
+   "Ruinous Crypt",
+   "They Just Keep Coming",
+   "The Sun Spire"
+  ],
+  "level": 110,
+  "objects": 86,
+  "bounds": [
+   -14.1,
+   -43.054,
+   14.804,
+   21.834
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cultist",
+   "Earth Demon",
+   "Flame Demon",
+   "Savaas Lavaflow"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Crimson Scales",
+  "num": 6,
+  "title": null,
+  "alts": [
+   "A Ship in a Storm",
+   "Decaying Crypt",
+   "Peer Pressure"
+  ],
+  "level": 111,
+  "objects": 52,
+  "bounds": [
+   -14.037,
+   -35.525,
+   15.297,
+   22.105
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Archer",
+   "City Guard",
+   "Hound"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Crimson Scales",
+  "num": 7,
+  "title": null,
+  "alts": [
+   "Arrival In Chains",
+   "The Chase",
+   "Vibrant Grotto"
+  ],
+  "level": 112,
+  "objects": 38,
+  "bounds": [
+   -14.163,
+   -32.623,
+   16.106,
+   22.043
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Crimson Scales",
+  "num": 8,
+  "title": null,
+  "alts": [
+   "Breaking and Entering",
+   "Gloomhaven Warehouse",
+   "The Doctor's Lab"
+  ],
+  "level": 113,
+  "objects": 75,
+  "bounds": [
+   -14.234,
+   -34.226,
+   18.994,
+   23.108
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Archer",
+   "City Guard",
+   "Cultist",
+   "Night Demon"
+  ],
+  "starts": 6
+ },
+ {
+  "group": "Crimson Scales",
+  "num": 9,
+  "title": null,
+  "alts": [
+   "Diamond Mine",
+   "Legal Entanglements",
+   "Skewed Perspective"
+  ],
+  "level": 114,
+  "objects": 39,
+  "bounds": [
+   -14.037,
+   -26.67,
+   15.297,
+   22.07
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Captain of Guard",
+   "City Guard"
+  ],
+  "starts": 3
+ },
+ {
+  "group": "Crimson Scales",
+  "num": 10,
+  "title": null,
+  "alts": [
+   "Beasts of Order and Chaos",
+   "Panic Room",
+   "Plane of Elemental Power"
+  ],
+  "level": 115,
+  "objects": 46,
+  "bounds": [
+   -14.037,
+   -33.908,
+   15.297,
+   22.388
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Captain of Guard",
+   "City Guard",
+   "Winged Horror"
+  ],
+  "starts": 3
+ },
+ {
+  "group": "Crimson Scales",
+  "num": null,
+  "title": "Intro",
+  "alts": [],
+  "level": 116,
+  "objects": 1,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 0
+ },
+ {
+  "group": "Crimson Scales",
+  "num": null,
+  "title": "City Event 2",
+  "alts": [],
+  "level": 117,
+  "objects": 1,
+  "bounds": [
+   -7.28,
+   -10.24,
+   7.28,
+   10.24
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 0
+ },
+ {
+  "group": "Crimson Scales",
+  "num": null,
+  "title": "City Event 3",
+  "alts": [],
+  "level": 118,
+  "objects": 1,
+  "bounds": [
+   -7.28,
+   -10.24,
+   7.28,
+   10.24
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 0
+ },
+ {
+  "group": "Crimson Scales",
+  "num": null,
+  "title": "City Event 4",
+  "alts": [],
+  "level": 119,
+  "objects": 1,
+  "bounds": [
+   -7.28,
+   -10.24,
+   7.28,
+   10.24
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 0
+ },
+ {
+  "group": "Crimson Scales",
+  "num": null,
+  "title": "City Event 5",
+  "alts": [],
+  "level": 120,
+  "objects": 1,
+  "bounds": [
+   -7.28,
+   -10.24,
+   7.28,
+   10.24
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 0
+ },
+ {
+  "group": "Crimson Scales",
+  "num": null,
+  "title": "City Event 6",
+  "alts": [],
+  "level": 121,
+  "objects": 1,
+  "bounds": [
+   -7.28,
+   -10.24,
+   7.28,
+   10.24
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 0
+ },
+ {
+  "group": "Crimson Scales",
+  "num": null,
+  "title": "City Event 7",
+  "alts": [],
+  "level": 122,
+  "objects": 1,
+  "bounds": [
+   -7.28,
+   -10.24,
+   7.28,
+   10.24
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 0
+ },
+ {
+  "group": "Crimson Scales",
+  "num": null,
+  "title": "City Event 8",
+  "alts": [],
+  "level": 123,
+  "objects": 1,
+  "bounds": [
+   -7.28,
+   -10.24,
+   7.28,
+   10.24
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 0
+ },
+ {
+  "group": "Solo",
+  "num": 1,
+  "title": "Brute",
+  "alts": [],
+  "level": 124,
+  "objects": 40,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Bandit Guard",
+   "Living Bones"
+  ],
+  "starts": 3
+ },
+ {
+  "group": "Solo",
+  "num": 2,
+  "title": "Cragheart",
+  "alts": [],
+  "level": 125,
+  "objects": 27,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 3
+ },
+ {
+  "group": "Solo",
+  "num": 3,
+  "title": "Cthulu Face",
+  "alts": [],
+  "level": 126,
+  "objects": 54,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "Giant Viper"
+  ],
+  "starts": 1
+ },
+ {
+  "group": "Solo",
+  "num": 4,
+  "title": "Five Circles",
+  "alts": [],
+  "level": 127,
+  "objects": 38,
+  "bounds": [
+   -14.667,
+   -19.179,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 4
+ },
+ {
+  "group": "Solo",
+  "num": 5,
+  "title": "Lightning",
+  "alts": [],
+  "level": 128,
+  "objects": 49,
+  "bounds": [
+   -14.667,
+   -31.663,
+   14.667,
+   42.563
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cultist",
+   "Inox Shaman",
+   "Living Bones",
+   "Living Dead"
+  ],
+  "starts": 3
+ },
+ {
+  "group": "Solo",
+  "num": 6,
+  "title": "Mindthief",
+  "alts": [],
+  "level": 129,
+  "objects": 44,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Vermling Scout",
+   "Vermling Shaman"
+  ],
+  "starts": 3
+ },
+ {
+  "group": "Solo",
+  "num": 7,
+  "title": "Moon",
+  "alts": [],
+  "level": 130,
+  "objects": 38,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Deep Terror",
+   "Night Demon"
+  ],
+  "starts": 3
+ },
+ {
+  "group": "Solo",
+  "num": 8,
+  "title": "Music Note",
+  "alts": [],
+  "level": 131,
+  "objects": 47,
+  "bounds": [
+   -15.152,
+   -55.723,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Bandit Guard",
+   "City Archer",
+   "City Guard",
+   "Stone Golem",
+   "Vermling Shaman"
+  ],
+  "starts": 1
+ },
+ {
+  "group": "Solo",
+  "num": 9,
+  "title": "Saw",
+  "alts": [],
+  "level": 132,
+  "objects": 59,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Guard"
+  ],
+  "starts": 1
+ },
+ {
+  "group": "Solo",
+  "num": 10,
+  "title": "Scoundrel",
+  "alts": [],
+  "level": 133,
+  "objects": 38,
+  "bounds": [
+   -14.667,
+   -19.088,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "City Guard",
+   "Stone Golem"
+  ],
+  "starts": 3
+ },
+ {
+  "group": "Solo",
+  "num": 11,
+  "title": "Spellweaver",
+  "alts": [],
+  "level": 134,
+  "objects": 51,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "Spitting Drake"
+  ],
+  "starts": 3
+ },
+ {
+  "group": "Solo",
+  "num": 12,
+  "title": "Spikey Head",
+  "alts": [],
+  "level": 135,
+  "objects": 45,
+  "bounds": [
+   -14.667,
+   -31.663,
+   14.667,
+   42.563
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Flame Demon",
+   "Giant Viper",
+   "Hound",
+   "Spitting Drake"
+  ],
+  "starts": 1
+ },
+ {
+  "group": "Solo",
+  "num": 13,
+  "title": "Sun",
+  "alts": [],
+  "level": 136,
+  "objects": 51,
+  "bounds": [
+   -14.667,
+   -55.803,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 1
+ },
+ {
+  "group": "Solo",
+  "num": 14,
+  "title": "Tinkerer",
+  "alts": [],
+  "level": 137,
+  "objects": 36,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Guard",
+   "Vermling Scout",
+   "Vermling Shaman"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Solo",
+  "num": 15,
+  "title": "Triangle",
+  "alts": [],
+  "level": 138,
+  "objects": 25,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Flame Demon",
+   "Frost Demon",
+   "Wind Demon"
+  ],
+  "starts": 2
+ },
+ {
+  "group": "Solo",
+  "num": 16,
+  "title": "Triple Arrow",
+  "alts": [],
+  "level": 139,
+  "objects": 53,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 3
+ },
+ {
+  "group": "Solo",
+  "num": 17,
+  "title": "Two Mini",
+  "alts": [],
+  "level": 140,
+  "objects": 56,
+  "bounds": [
+   -14.667,
+   -56.453,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear",
+   "Forest Imp",
+   "Hound",
+   "Rending Drake",
+   "Vermling Shaman"
+  ],
+  "starts": 2
+ },
+ {
+  "group": "Kickstarter",
+  "num": 1,
+  "title": null,
+  "alts": [
+   "Black Barrow",
+   "Blood and Glory",
+   "Just Another Night"
+  ],
+  "level": 141,
+  "objects": 38,
+  "bounds": [
+   -14.667,
+   -18.963,
+   14.667,
+   18.963
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Archer",
+   "Bandit Guard",
+   "Inox Archer",
+   "Inox Guard",
+   "Inox Shaman"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Kickstarter",
+  "num": 2,
+  "title": null,
+  "alts": [
+   "A Quatryl Scorned",
+   "Barrow Lair",
+   "Jailbreak"
+  ],
+  "level": 142,
+  "objects": 76,
+  "bounds": [
+   -14.347,
+   -49.173,
+   15.067,
+   25.413
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "Bandit Archer",
+   "Bandit Guard"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Kickstarter",
+  "num": 3,
+  "title": null,
+  "alts": [
+   "Inox Encampment",
+   "Slippery Slope",
+   "Unreliable Medicine"
+  ],
+  "level": 143,
+  "objects": 85,
+  "bounds": [
+   -14.347,
+   -49.173,
+   15.067,
+   25.413
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Giant Viper",
+   "Vermling Scout",
+   "Vermling Shaman"
+  ],
+  "starts": 7
+ },
+ {
+  "group": "Kickstarter",
+  "num": 4,
+  "title": null,
+  "alts": [
+   "Crypt of the Damned",
+   "Emergent Evidence",
+   "Unlikely Allies"
+  ],
+  "level": 144,
+  "objects": 43,
+  "bounds": [
+   -14.347,
+   -49.173,
+   15.067,
+   25.413
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Vermling Scout"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Kickstarter",
+  "num": 5,
+  "title": null,
+  "alts": [
+   "Ruinous Crypt",
+   "They Just Keep Coming",
+   "The Sun Spire"
+  ],
+  "level": 145,
+  "objects": 47,
+  "bounds": [
+   -14.347,
+   -49.173,
+   15.067,
+   25.413
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "Sun Demon",
+   "Vermling Scout"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Kickstarter",
+  "num": 6,
+  "title": null,
+  "alts": [
+   "A Ship in a Storm",
+   "Decaying Crypt",
+   "Peer Pressure"
+  ],
+  "level": 146,
+  "objects": 39,
+  "bounds": [
+   -14.347,
+   -49.173,
+   15.067,
+   25.413
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 4
+ },
+ {
+  "group": "Kickstarter",
+  "num": 7,
+  "title": null,
+  "alts": [
+   "Arrival In Chains",
+   "The Chase",
+   "Vibrant Grotto"
+  ],
+  "level": 147,
+  "objects": 29,
+  "bounds": [
+   -14.347,
+   -49.173,
+   15.067,
+   25.413
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cave Bear"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Kickstarter",
+  "num": 8,
+  "title": null,
+  "alts": [
+   "Breaking and Entering",
+   "Gloomhaven Warehouse",
+   "The Doctor's Lab"
+  ],
+  "level": 148,
+  "objects": 79,
+  "bounds": [
+   -14.347,
+   -49.173,
+   15.067,
+   25.413
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "Living Bones",
+   "Stone Golem"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Kickstarter",
+  "num": 9,
+  "title": null,
+  "alts": [
+   "Diamond Mine",
+   "Legal Entanglements",
+   "Skewed Perspective"
+  ],
+  "level": 149,
+  "objects": 51,
+  "bounds": [
+   -14.347,
+   -49.173,
+   15.067,
+   25.413
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Cultist",
+   "Hound",
+   "Living Spirit"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Kickstarter",
+  "num": 10,
+  "title": null,
+  "alts": [
+   "Beasts of Order and Chaos",
+   "Panic Room",
+   "Plane of Elemental Power"
+  ],
+  "level": 150,
+  "objects": 75,
+  "bounds": [
+   -14.347,
+   -49.173,
+   15.067,
+   25.413
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Deep Terror",
+   "Night Demon"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 96,
+  "title": "Unexpected Visitors",
+  "alts": [],
+  "level": 151,
+  "objects": 82,
+  "bounds": [
+   -15.204,
+   -50.983,
+   12.79,
+   21.65
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Flame Demon",
+   "Frost Demon",
+   "Wind Demon"
+  ],
+  "starts": 3
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 97,
+  "title": "Lore Untold",
+  "alts": [],
+  "level": 152,
+  "objects": 98,
+  "bounds": [
+   -15.123,
+   -42.412,
+   27.173,
+   18.398
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Aesther Scout",
+   "Black Imp",
+   "Deep Terror",
+   "Living Bones",
+   "Living Dead"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 98,
+  "title": "Past In Flames",
+  "alts": [],
+  "level": 153,
+  "objects": 89,
+  "bounds": [
+   -16.459,
+   -54.3,
+   29.746,
+   19.799
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "Bandit Archer",
+   "Bandit Guard",
+   "Spitting Drake"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 99,
+  "title": "Aftershocks",
+  "alts": [],
+  "level": 154,
+  "objects": 83,
+  "bounds": [
+   -15.213,
+   -36.247,
+   30.975,
+   19.85
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Black Imp",
+   "Cultist",
+   "Deep Terror"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 100,
+  "title": "Shifting Gears",
+  "alts": [],
+  "level": 155,
+  "objects": 193,
+  "bounds": [
+   -16.05,
+   -102.714,
+   46.664,
+   21.265
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "Living Spirit",
+   "Stone Golem"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 101,
+  "title": "Shrouded Crypt",
+  "alts": [],
+  "level": 156,
+  "objects": 131,
+  "bounds": [
+   -15.488,
+   -78.581,
+   35.43,
+   21.183
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Living Bones",
+   "Living Dead",
+   "Living Spirit",
+   "Night Demon",
+   "Rending Drake",
+   "Spitting Drake"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 102,
+  "title": "Bazaar Of Knowledge",
+  "alts": [],
+  "level": 157,
+  "objects": 16,
+  "bounds": [
+   -15.098,
+   -86.042,
+   22.396,
+   18.545
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 0
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 103,
+  "title": "Where it is Needed",
+  "alts": [],
+  "level": 158,
+  "objects": 8,
+  "bounds": [
+   -15.268,
+   -52.405,
+   31.618,
+   19.175
+  ],
+  "hasPage": true,
+  "monsters": [],
+  "starts": 0
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 104,
+  "title": "A Gaping Wound",
+  "alts": [],
+  "level": 159,
+  "objects": 50,
+  "bounds": [
+   -15.338,
+   -54.744,
+   12.73,
+   19.203
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Harrower Infester",
+   "Lurker",
+   "Spitting Drake",
+   "Sun Demon"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 105,
+  "title": "Monstrosities of a Cult",
+  "alts": [],
+  "level": 160,
+  "objects": 117,
+  "bounds": [
+   -15.438,
+   -54.538,
+   12.824,
+   21.775
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Bandit Guard",
+   "Cave Bear",
+   "Hound",
+   "Valrath Tracker"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 106,
+  "title": "Intricate Work",
+  "alts": [],
+  "level": 161,
+  "objects": 89,
+  "bounds": [
+   -15.254,
+   -96.04,
+   31.408,
+   20.8
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Aesther Scout",
+   "Ancient Artillery",
+   "Earth Demon",
+   "Flame Demon",
+   "Frost Demon",
+   "Savaas Icestorm",
+   "Savaas Lavaflow",
+   "Wind Demon"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 107,
+  "title": "Mechanical Genius",
+  "alts": [],
+  "level": 162,
+  "objects": 130,
+  "bounds": [
+   -15.141,
+   -156.808,
+   30.988,
+   19.473
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Living Spirit",
+   "Vermling Scout",
+   "Vermling Shaman"
+  ],
+  "starts": 0
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 108,
+  "title": "Prologue to the End",
+  "alts": [],
+  "level": 163,
+  "objects": 76,
+  "bounds": [
+   -15.144,
+   -82.709,
+   22.278,
+   19.418
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Archer",
+   "City Guard",
+   "Human Commander",
+   "Valrath Commander",
+   "Valrath Savage",
+   "Valrath Tracker"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 109,
+  "title": "Epilogue of a War",
+  "alts": [],
+  "level": 164,
+  "objects": 57,
+  "bounds": [
+   -15.143,
+   -39.168,
+   12.713,
+   21.725
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Archer",
+   "City Guard",
+   "Valrath Savage",
+   "Valrath Tracker"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 110,
+  "title": "A Circular Solution",
+  "alts": [],
+  "level": 165,
+  "objects": 62,
+  "bounds": [
+   -16.513,
+   -53.638,
+   21.392,
+   21.35
+  ],
+  "hasPage": true,
+  "monsters": [
+   "City Guard",
+   "Lurker",
+   "Ooze",
+   "Savaas Lavaflow",
+   "Valrath Tracker",
+   "Vermling Shaman"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 111,
+  "title": "The Shackles Loosen",
+  "alts": [],
+  "level": 166,
+  "objects": 137,
+  "bounds": [
+   -15.591,
+   -126.045,
+   12.985,
+   21.477
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Aesther Ashblade",
+   "Aesther Scout",
+   "Black Imp",
+   "Harrower Infester",
+   "Night Demon",
+   "Vermling Shaman"
+  ],
+  "starts": 5
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 112,
+  "title": "The Bottom of It",
+  "alts": [],
+  "level": 167,
+  "objects": 83,
+  "bounds": [
+   -16.604,
+   -36.048,
+   21.301,
+   20.05
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Ancient Artillery",
+   "Living Bones",
+   "Stone Golem"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 113,
+  "title": "The Lost Thread",
+  "alts": [],
+  "level": 168,
+  "objects": 89,
+  "bounds": [
+   -15.366,
+   -91.851,
+   22.254,
+   19.875
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Deep Terror",
+   "Living Bones",
+   "Living Dead",
+   "Living Spirit",
+   "Stone Golem"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 114,
+  "title": "Ink Not Yet Dry",
+  "alts": [],
+  "level": 169,
+  "objects": 60,
+  "bounds": [
+   -15.296,
+   -45.631,
+   12.84,
+   20.988
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Aesther Ashblade",
+   "Aesther Scout",
+   "Wind Demon"
+  ],
+  "starts": 3
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 115,
+  "title": "Future Uncertain",
+  "alts": [],
+  "level": 170,
+  "objects": 51,
+  "bounds": [
+   -15.021,
+   -58.281,
+   24.014,
+   19.515
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Aesther Ashblade",
+   "Aesther Scout",
+   "Corruption",
+   "Valrath Savage",
+   "Valrath Tracker"
+  ],
+  "starts": 4
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 116,
+  "title": "Forecast of the Inevitable",
+  "alts": [],
+  "level": 171,
+  "objects": 59,
+  "bounds": [
+   -17.68,
+   -62.497,
+   13.614,
+   19.17
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Earth Demon",
+   "Valrath Savage"
+  ],
+  "starts": 1
+ },
+ {
+  "group": "Forgotten Circles",
+  "num": 117,
+  "title": "Tower to the Stars",
+  "alts": [],
+  "level": 172,
+  "objects": 133,
+  "bounds": [
+   -15.354,
+   -71.363,
+   22.149,
+   19.197
+  ],
+  "hasPage": true,
+  "monsters": [
+   "Aesther Ashblade",
+   "Ancient Artillery",
+   "Black Imp",
+   "City Archer",
+   "City Guard",
+   "Deep Terror",
+   "Earth Demon",
+   "Forest Imp",
+   "Harrower Infester",
+   "Hound",
+   "Savaas Icestorm",
+   "Savaas Lavaflow",
+   "Wind Demon"
+  ],
+  "starts": 17
+ }
+]

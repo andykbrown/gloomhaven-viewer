@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Scenario Viewer</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app">
+  <aside id="sidebar">
+    <header>
+      <h1>Scenario Viewer</h1>
+      <input id="search" type="search" placeholder="Search scenarios or monsters…" autocomplete="off">
+      <div id="groups"></div>
+    </header>
+    <ul id="list"></ul>
+    <footer id="count"></footer>
+  </aside>
+
+  <main id="stage">
+    <div id="toolbar">
+      <div class="tl">
+        <strong id="title">Select a scenario</strong>
+        <span id="subtitle"></span>
+      </div>
+      <div class="tr">
+        <button id="mode-view" class="seg active" data-mode="view">View</button>
+        <button id="mode-play" class="seg" data-mode="play">Play</button>
+        <span class="sep"></span>
+        <button id="fit" title="Fit to view">Fit</button>
+        <button id="zin" title="Zoom in">+</button>
+        <button id="zout" title="Zoom out">−</button>
+        <span class="sep"></span>
+        <label class="chk"><input type="checkbox" id="showpage" checked> Page</label>
+        <label class="chk"><input type="checkbox" id="showmap" checked> Map</label>
+        <label class="chk"><input type="checkbox" id="showmon" checked> Monsters</label>
+        <label class="chk"><input type="checkbox" id="showcovers" checked> Spoilers hidden</label>
+        <label class="chk"><input type="checkbox" id="showgrid"> Grid</label>
+      </div>
+    </div>
+    <canvas id="map"></canvas>
+    <div id="hint">Drag to pan · scroll to zoom · click a grey box to reveal it · in Play mode, click a monster to track it</div>
+  </main>
+
+  <aside id="panel">
+    <div class="ph">
+      <strong>Play aid</strong>
+      <button id="clear-tracked" class="link">clear</button>
+    </div>
+    <div id="tracked"></div>
+    <div class="ph"><strong>Tiles</strong></div>
+    <div id="tiles"></div>
+  </aside>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
